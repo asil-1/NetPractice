@@ -66,4 +66,6 @@ A default gateway is used to connect two subnets. In practice, it is almost alwa
 
 ### routers and switches
 
+source: [peer-to-peer](https://profile.intra.42.fr/users/tle-floc)
+
 A router is used to connect different subnets to one another. A switch is used to connect different devices within the same subnet.
